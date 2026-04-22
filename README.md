@@ -14,13 +14,4 @@ Welcome to my GitHub! I’m currently an ICT Engineer at a school, where I empow
 - **Tax App**  
   Simplifying tax calculations for everyone.
 - **???!!!???**
-  Wouldn't you like to know weather boy
-
-## 💡 About Me
-- Passionate about blending technology and education
-- Always exploring new tech stacks and creative solutions
-- Believer in continuous learning and sharing knowledge
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and connect through my projects.
+  Wouldn't you like to know weather boy.
